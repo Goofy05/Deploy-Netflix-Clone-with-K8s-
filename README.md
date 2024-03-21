@@ -1,4 +1,5 @@
-
+#Netflix-Microservices Project
+![Screenshot 2024-03-21 154911](https://github.com/Goofy05/Deploy-Netflix-Clone-with-K8s-/assets/158276086/254cf1bd-40ed-4d58-a484-5211d6e588c9)
 
 # Deploy Netflix Clone on Cloud using Jenkins-Microservices-DevSecOps
 
